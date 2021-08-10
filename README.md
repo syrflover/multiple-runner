@@ -1,4 +1,4 @@
-테스트 함수를 주어진 횟수만큼 실행해주는 `Procedural-Macro`입니다.
+테스트 함수를 주어진 횟수만큼 실행해주는 `attribute`입니다.
 
 ## Example
 
